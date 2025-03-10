@@ -34,7 +34,7 @@ Virtual environment tools (like venv or conda)
 Steps
 Clone the Repository:
 
-git clone https://github.com/Vedantroy475/movie-recommender.git
+git clone https://github.com/AbhiramSakha/T-06-Movie-Recommender.git
 cd movie-recommender
 Set Up the Virtual Environmnet:
 
@@ -62,7 +62,7 @@ Access the App: Open the URL displayed in the terminal, typically http://localho
 The repository includes:
 
 Project Report: A detailed explanation of the project in PDF format (Vedant Roy Minor Project Report on Movie Recommendation System.pdf).
-Presentation Slides: A concise slide deck used for the college presentation in pdf format (Vedant Roy Minor Project Movie-Recommender-System PPT.pdf).
+Presentation Slides: A concise slide deck used for the college presentation in pdf format (Team-06 Minor Project Movie-Recommender-System PPT.pdf).
 🔧 Deployment
 This project is ready to be deployed on Render or similar platforms. Follow these steps:
 
@@ -81,8 +81,7 @@ This video provides a comprehensive walkthrough of the project and its features.
 
 📬 Contact
 For queries, suggestions, or collaboration, feel free to reach out to me:
-
-LinkedIn: Vedant Roy GitHub: Vedantroy475 Email: vedantroy3@gmail.com
+ Email: aabhiramsakha@gmail.com
 
 🔗 References
 TMDB API: The Movie Database API Dataset: TMDb 5000 Movie Dataset on Kaggle
